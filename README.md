@@ -3,7 +3,7 @@
 git clone https://github.com/shashi0396/cloud-api-demo.git
 
 ### to add single file
-git add <file-name>
+git add file-name
 
 ### to add mutiple file
 git add .
